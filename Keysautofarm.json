@@ -16,3 +16,21 @@
   "version": "1.0",
   "last_updated": "2026-01-07"
 }
+{
+  "users": {
+    "9071426603": {
+      "key": "MORTYHUB",
+      "username": "User_9071426603",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
+    }
+  },
+  "version": "1.0",
+  "last_updated": "2026-01-07"
+}
