@@ -1,6 +1,18 @@
 {
-  "ACUSADO-7300779371": {
-    "userid": 7300779371,
-    "expires": 0
-  }
+  "users": {
+    "7300779371": {
+      "key": "ACUSADO",
+      "username": "User_7300779371",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
+    }
+  },
+  "version": "1.0",
+  "last_updated": "2026-01-07"
 }
