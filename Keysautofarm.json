@@ -12,9 +12,21 @@
         "fly_mode": true
       }
     },
-    "6142793436": {
-      "key": "M",
-      "username": "User_6142793436",
+    "9071426603": {
+      "key": "MortyHub",
+      "username": "User_9071426603",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
+    },
+    "9504334022": {
+      "key": "Bleegot0880",
+      "username": "User_9504334022",
       "status": "active",
       "expiration": "permanent",
       "created_at": "2026-01-07",
