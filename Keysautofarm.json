@@ -35,6 +35,18 @@
         "autofarm": true,
         "fly_mode": true
       }
+    },
+    "9363094734": {
+      "key": "VEXSB22",
+      "username": "User_9363094734",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
     }
   },
   "version": "1.0",
