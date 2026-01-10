@@ -47,6 +47,18 @@
         "autofarm": true,
         "fly_mode": true
       }
+    },
+    "2804254658": {
+      "key": "Krazzy",
+      "username": "User_2804254658",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
     }
   },
   "version": "1.0",
