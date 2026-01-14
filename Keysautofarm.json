@@ -12,9 +12,9 @@
         "fly_mode": true
       }
     },
-    "6142683489": {
+    "9071426603": {
       "key": "MortyHub",
-      "username": "User_6142683489",
+      "username": "User_9071426603",
       "status": "active",
       "expiration": "permanent",
       "created_at": "2026-01-07",
@@ -48,9 +48,9 @@
         "fly_mode": true
       }
     },
-    "4140701516": {
+    "2804254658": {
       "key": "Krazzy",
-      "username": "User_4140701516",
+      "username": "User_2804254658",
       "status": "active",
       "expiration": "permanent",
       "created_at": "2026-01-07",
@@ -63,6 +63,18 @@
     "8679199764": {
       "key": "Patricksb",
       "username": "User_8679199764",
+      "status": "active",
+      "expiration": "permanent",
+      "created_at": "2026-01-07",
+      "permissions": {
+        "noclip": true,
+        "autofarm": true,
+        "fly_mode": true
+      }
+    },
+    "8128943266": {
+      "key": "JAY",
+      "username": "User_8128943266",
       "status": "active",
       "expiration": "permanent",
       "created_at": "2026-01-07",
